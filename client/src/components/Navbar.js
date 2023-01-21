@@ -44,7 +44,7 @@ export default function Navbar() {
                         <div
                             className="items-center md:space-x-8 justify-center justify-items-start md:justify-items-center md:flex md:pt-2 w-full left-0 top-16 px-5 md:px-10 py-3 md:py-0 border-t md:border-t-0 text-xl">
 
-                            <Link to="/">
+                            <Link to="/home">
                                 <span className="inline-flex w-auto px-3 py-2 rounded hover:bg-tertiary cursor-pointer text-white">Home</span>
                             </Link>
 
