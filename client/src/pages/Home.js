@@ -17,7 +17,7 @@ export default function Home() {
                 </div>
 
                 <section
-                    className="flex flex-col w-full h-[500px] bg-cover bg-fixed bg-center justify-center items-center parallex1">
+                    className="flex flex-col w-full h-[500px] bg-cover bg-fixed bg-center justify-center items-center parallex1 text-white">
                     <h1 className="text-5xl font-semibold mt-20 mb-10">
                         Keep track of your diet
                     </h1>

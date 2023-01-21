@@ -36,9 +36,9 @@ export default function Navbar() {
                         className="flex justify-between md:justify-around py-4 w-full top-0 left-0 right-0 z-10 px-8 md:px-3">
 
                         <div className="flex items-center cursor-pointer">
-                                <h3 className="text-4xl font-medium text-white">
-                                    Healthynest
-                                </h3>
+                            <h3 className="text-4xl font-medium text-white">
+                                Healthynest
+                            </h3>
                         </div>
 
                         <div
@@ -102,7 +102,3 @@ export default function Navbar() {
         </>
     );
 }
-
-                                // <button className='bg-secondary text-white py-2 px-8 rounded-md' onClick={handleLogout}>
-                                //     Logout
-                                // </button>
